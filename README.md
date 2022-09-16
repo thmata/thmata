@@ -1,7 +1,7 @@
 
 ### Olá! Me chamo Thiago Mata 👋🏻
 
-- 🏛️ Cursando **Bacharelado em Engenharia Elétrica na Universidade de Pernambuco e Análise e Desenvolvimento de Sistemas**;
+- 🏛️ Cursando Análise e Desenvolvimento de Sistemas**;
 - 🔍 Atualmente venho me aperfeiçoando na área de Desenvolvimento web Front-End/Back-End.
 - 📫 Contate-me no e-mail: thfmata@gmail.com.
 
