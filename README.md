@@ -2,8 +2,8 @@
 ### Olá! Me chamo Thiago Mata 👋🏻
 
 - 🏛️ Cursando Análise e Desenvolvimento de Sistemas;
-- 🔍 Atualmente venho me aperfeiçoando na área de Desenvolvimento web Front-End/Back-End.
-- 📫 Contate-me no e-mail: thfmata@gmail.com.
+- 🔍 Atualmente venho me aperfeiçoando na área de Desenvolvimento web Front-End/Back-End;
+- 📫 Contate-me no e-mail: thfmata@gmail.com;
 
 ##
 
