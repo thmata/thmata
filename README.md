@@ -1,7 +1,7 @@
 
 ### Olá! Me chamo Thiago Mata 👋🏻
 
-- 🏛️ Cursando Análise e Desenvolvimento de Sistemas;
+- 🏛️ Cursando Ciência da Computação;
 - 🔍 Desenvolvimento web Front-End/Back-End;
 - 📫 Contate-me no e-mail: thfmata@gmail.com;
 
